@@ -22,7 +22,7 @@ export default function HomeStack() {
         name="Home"
         component={Home}
         options={{
-          title: "GameZone",
+          title: "Gamezone",
         }}
         navigationOptions={({ navigation }) => ({
           headerTitle: () => <Header navigation={navigation} />,

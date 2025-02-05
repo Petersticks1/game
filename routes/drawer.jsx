@@ -19,7 +19,7 @@ export default function MyDrawer() {
           // navigationOptions={({ navigation }) => ({
           //   headerTitle: () => <Header navigation={navigation} />,
           // })}
-          options={{ title: "GameZone", drawerLabel: "Home" }}
+          options={{ title: "Gamezone", drawerLabel: "Home" }}
         />
         <Drawer.Screen
           name="About"
@@ -27,7 +27,7 @@ export default function MyDrawer() {
           // navigationOptions={({ navigation }) => ({
           //   headerTitle: () => <Header navigation={navigation} />,
           // })}
-          options={{ title: "About GameZone", drawerLabel: "About" }}
+          options={{ title: "About Gamezone", drawerLabel: "About" }}
         />
       </Drawer.Navigator>
     </NavigationContainer>

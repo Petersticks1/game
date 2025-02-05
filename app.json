@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.psticks.gamezone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "psticks",
+    "extra": {
+      "eas": {
+        "projectId": "ee9fdd89-9f7f-47a4-8d51-5d3a0ab9e6a9"
+      }
     }
   }
 }
